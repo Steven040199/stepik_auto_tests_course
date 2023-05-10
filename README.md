@@ -1,6 +1,4 @@
 # stepik_auto_tests_course
 Homework_course
 
-My new stepik_auto_tests_course
-
-NEW LINK
+https://stepik.org/lesson/187065/step/8?unit=161976
